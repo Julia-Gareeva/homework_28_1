@@ -1,0 +1,65 @@
+[
+    {
+        "model": "ads.category",
+        "pk": 1,
+        "fields": {
+            "name": "Котики"
+        }
+    },
+    {
+        "model": "ads.category",
+        "pk": 2,
+        "fields": {
+            "name": "Песики"
+        }
+    },
+    {
+        "model": "ads.category",
+        "pk": 3,
+        "fields": {
+            "name": "Книги"
+        }
+    },
+    {
+        "model": "ads.category",
+        "pk": 4,
+        "fields": {
+            "name": "Растения"
+        }
+    },
+    {
+        "model": "ads.category",
+        "pk": 5,
+        "fields": {
+            "name": "Мебель и интерьер"
+        }
+    },
+    {
+        "model": "ads.category",
+        "pk": 6,
+        "fields": {
+            "name": "Аксессуары"
+        }
+    },
+    {
+        "model": "ads.category",
+        "pk": 7,
+        "fields": {
+            "name": "Техника и Электроника"
+        }
+    },
+    {
+        "model": "ads.category",
+        "pk": 8,
+        "fields": {
+            "name": "Средства для лица и тела"
+        }
+    },
+    {
+        "model": "ads.category",
+        "pk": 9,
+        "fields": {
+            "name": "Средства для чистки"
+        }
+    }
+]
